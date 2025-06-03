@@ -78,6 +78,13 @@
 
 ---
 
+## Sequence Diagram
+
+<!-- Replace the link below with your actual Draw.io or image diagram -->
+![Sequence Diagram](sequenceDiag.png)
+
+---
+
 ## 📚 API Documentation
 
 - **REST Endpoints:**
