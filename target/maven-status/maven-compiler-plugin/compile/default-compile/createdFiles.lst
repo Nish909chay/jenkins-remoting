@@ -1,0 +1,8 @@
+com\example\remotingdemo\RemotingController.class
+com\example\remotingdemo\WebSocketConfig.class
+com\example\remotingdemo\AgentDemo.class
+com\example\remotingdemo\MasterDemo$SimpleCallable.class
+com\example\remotingdemo\RemotingService.class
+com\example\remotingdemo\MasterDemo.class
+com\example\remotingdemo\MasterDemo$AgentReplyCallable.class
+com\example\remotingdemo\RemotingBackendApplication.class
