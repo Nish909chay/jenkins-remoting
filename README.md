@@ -71,10 +71,10 @@
 
 ---
 
-## 🏗️ Architecture Diagram
+## 🏗️ Flowchart
 
 <!-- Replace the link below with your actual Draw.io or image diagram -->
-![Architecture Diagram](docs/architecture-diagram.png)
+![Flowchart](docs/Flowcharty.png)
 
 ---
 
