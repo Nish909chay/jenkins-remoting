@@ -101,7 +101,7 @@
 ## 🖼️ Frontend UI Snapshot
 
 <!-- Add screenshots of the UI here -->
-![Screenshot](docs/screenshot.png)
+![Screenshot](appphoto.jpeg)
 
 ---
 
