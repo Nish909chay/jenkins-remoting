@@ -74,7 +74,7 @@
 ## 🏗️ Flowchart
 
 <!-- Replace the link below with your actual Draw.io or image diagram -->
-![Flowchart](docs/Flowcharty.png)
+![Flowchart](Flowcharty.png)
 
 ---
 
